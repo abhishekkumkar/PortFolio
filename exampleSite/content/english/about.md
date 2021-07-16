@@ -22,33 +22,33 @@ experience:
     - name : "Technical Head"
       company : "IEEE Comsoc VITC"
       duration : "2020-2021"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
+      content : "Handled all the techicalities of the club. Was given responsibility of project bootcamps."
       
     # experience item loop
     - name : "Technical Head"
       company : "PALS VITC"
       duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+      content : "Handled all the techicalities of the club. Gave technical solutions to the problems faced by other departments of club"
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "SKILLS"
   skill_list:
     # skill item loop
     - name : "Web Development"
-      percentage : "98%"
+      percentage : "80%"
       
     # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
+    - name : "Machine Learning"
       percentage : "90%"
       
     # skill item loop
-    - name : "Wordpress"
+    - name : "Cyber Security"
+      percentage : "70%"
+      
+    # skill item loop
+    - name : "Cloud"
       percentage : "70%"
 
 
@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Abhishek, Professional Web Developer, Ethical Hacker and Machine learning Engineer. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. <br>No matter how difficult your project is, i will find an easy way and complete your work anyway. Stay connected with me.
+It's Abhishek, Professional Web Developer, Ethical Hacker and Machine learning Engineer. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. <br>No matter how difficult your project is, I will find an easy way and complete your work anyway. Stay connected with me.
