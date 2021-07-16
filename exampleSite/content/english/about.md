@@ -5,7 +5,7 @@ image : "images/DSC_2851.JPG"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : ""
+  link : "Resume.pdf"
 
 ########################### Experience ##############################
 experience:
@@ -51,6 +51,26 @@ skill:
     - name : "Cloud"
       percentage : "70%"
 
+framework:
+  enable : true
+  title : "FRAMEWORKS"
+  framework_list:
+    # skill item loop
+    - name : "Django"
+      percentage : "80%"
+      
+    # skill item loop
+    - name : "NodeJs"
+      percentage : "70%"
+      
+    # skill item loop
+    - name : "ReactJs"
+      percentage : "70%"
+      
+    # skill item loop
+    - name : "Keras"
+      percentage : "80%"
+
 
 # custom style
 custom_class: "" 
@@ -58,4 +78,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Abhishek, Professional Web Developer, Ethical Hacker and Machine learning Engineer. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. <br>No matter how difficult your project is, I will find an easy way and complete your work anyway. Stay connected with me.
+It's Abhishek, Professional Web Developer, Ethical Hacker and Data analyst. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. <br>No matter how difficult your project is, I will find an easy way and complete your work anyway. Stay connected with me.

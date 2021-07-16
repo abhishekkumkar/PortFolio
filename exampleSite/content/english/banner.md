@@ -7,7 +7,7 @@ bg_image : "images/IMG_3966.JPG"
 # animated text loop
 occupations:
 - "Web Developer"
-- "Machine Learning Engineer"
+- "Data analyst"
 - "Cyber Security Analyst"
 
 # slider background image loop

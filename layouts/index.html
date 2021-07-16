@@ -236,10 +236,14 @@
           {{ end }}
         </div>
       </div>
+      {{end}}
+      {{end}}
+      {{ with .Params.framework }}
+      {{ if .enable }}
       <div class="col-lg-3 col-sm-3 col-11 skill wow fadeInUp" data-wow-duration="1.5s">
-        <h3 >FRAMEWORKS</h3>
+        <h3>{{ .title }}</h3>
         <div class="skill-progress-bar">
-          {{ range .skill_list }}
+          {{ range .framework_list }}
           <div class="clearfix">
             <span class="skillbar-title">{{ .name }}</span>
             <span class="skill-bar-percent">{{ .percentage }}</span>
@@ -250,8 +254,8 @@
           {{ end }}
         </div>
       </div>
-      {{ end }}
-      {{ end }}
+      {{end}}
+      {{end}}
     </div>
   </div>
 </section>

@@ -6,7 +6,7 @@ service_list:
   image : "images/icons/web-development.png"
   
 # service item loop
-- name : "Graphic Design"
+- name : "Data analysis"
   image : "images/icons/graphic-design.png"
   
 # service item loop
@@ -14,15 +14,15 @@ service_list:
   image : "images/icons/dbms.png"
   
 # service item loop
-- name : "Software Development"
+- name : "Penetration Testing"
   image : "images/icons/software-development.png"
   
 # service item loop
-- name : "Digital Marketing"
+- name : "Cloud deployments"
   image : "images/icons/marketing.png"
   
 # service item loop
-- name : "Mobile App Development"
+- name : "Problem solving"
   image : "images/icons/mobile-app.png"
 
 
