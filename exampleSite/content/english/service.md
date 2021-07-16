@@ -23,7 +23,7 @@ service_list:
   
 # service item loop
 - name : "Problem solving"
-  image : "images/icons/mobile-app.png"
+  image : "images/icons/ps.png"
 
 
 

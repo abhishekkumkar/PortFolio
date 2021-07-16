@@ -717,10 +717,12 @@ input:checked+label span:last-child {
 }
 
 .mobile-menu-logo img {
+  display: hidden;
   height: 55px;
 }
 
 .mobile-menu-logo {
+  display: none;
   position: absolute;
   left: 15px;
   top: 4px;
