@@ -27,7 +27,7 @@ experience:
     # experience item loop
     - name : "Technical Head"
       company : "PALS VITC"
-      duration : "2014-2018"
+      duration : "2020-2021"
       content : "Handled all the techicalities of the club. Gave technical solutions to the problems faced by other departments of club"
 
 ############################### Skill #################################

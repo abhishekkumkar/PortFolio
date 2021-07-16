@@ -717,9 +717,8 @@ input:checked+label span:last-child {
 }
 
 .mobile-menu-logo img {
-   display: none;
-   height: 55px;
- }
+  height: 55px;
+}
 
 .mobile-menu-logo {
   position: absolute;

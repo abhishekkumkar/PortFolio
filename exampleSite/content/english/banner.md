@@ -3,7 +3,7 @@ title : "I'm Abhishek Kumkar"
 # full screen navigation
 first_name : "Abhishek"
 last_name : "Kumkar"
-bg_image : "images/IMG_3966.JPG"
+bg_image : "images/back.jpeg"
 # animated text loop
 occupations:
 - "Web Developer"
