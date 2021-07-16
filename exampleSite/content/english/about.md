@@ -1,6 +1,6 @@
 ---
 title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+image : "images/DSC_2851.JPG"
 # button
 button:
   enable : true
@@ -13,20 +13,20 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Web Development Team Lead"
+      company : "Google DSC"
+      duration : "2020-2021"
+      content : "I managed the Web Dev team of DSC. We as a team created some projects for club and also organized web dev related events."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
+    - name : "Technical Head"
+      company : "IEEE Comsoc VITC"
+      duration : "2020-2021"
       content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
       
     # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
+    - name : "Technical Head"
+      company : "PALS VITC"
       duration : "2014-2018"
       content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
 
@@ -58,4 +58,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Abhishek, Professional Web Developer, Ethical Hacker and Machine learning Engineer. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+It's Abhishek, Professional Web Developer, Ethical Hacker and Machine learning Engineer. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. <br>No matter how difficult your project is, i will find an easy way and complete your work anyway. Stay connected with me.
