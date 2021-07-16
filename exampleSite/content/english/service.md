@@ -7,7 +7,7 @@ service_list:
   
 # service item loop
 - name : "Data analysis"
-  image : "images/icons/graphic-design.png"
+  image : "images/icons/data.png"
   
 # service item loop
 - name : "Database Management"
@@ -15,11 +15,11 @@ service_list:
   
 # service item loop
 - name : "Penetration Testing"
-  image : "images/icons/software-development.png"
+  image : "images/icons/pen.png"
   
 # service item loop
 - name : "Cloud deployments"
-  image : "images/icons/marketing.png"
+  image : "images/icons/cloud.png"
   
 # service item loop
 - name : "Problem solving"
