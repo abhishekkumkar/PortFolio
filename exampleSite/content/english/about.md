@@ -78,4 +78,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Abhishek, Professional Web Developer, Ethical Hacker and Data analyst. I can design websites for your buisnesses , I can train machine learning models and also I can test security of your applications. <br>No matter how difficult your project is, I will find an easy way and complete your work anyway. Stay connected with me.
+It's Abhishek, Professional Web Developer, Ethical Hacker and Data analyst. I can design websites for your businesses, I can train machine learning models and also I can test security of your applications. <br>No matter how difficult your project is, I will find an easy way and complete your work anyway. Stay connected with me.
